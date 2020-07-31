@@ -20,7 +20,7 @@ class About extends React.Component{
                         <h2 className="uk-h2 me">LET ME INTRODUCE MYSELF</h2>
                         <p className="uk-text-bold uk-text-justify"><em>Web Designer and Developer.</em>
                         <br/>
-                            I'm  an ICT Engineer, Frontend & Backend Developer with more than three years of experience in professional web development and multiple web projects with PHP by  using Laravel and Javascript with  jQuery or Frameworks such as  React.js, SQL and NoSQL database management, also I have worked with Bootstrap, foundation, Spectre that are  CSS Frameworks to design web-pages.        
+                            I'm  an ICT Engineer, Frontend & Backend Developer with more than three years of experience in professional web development and multiple web projects with PHP by  using Laravel and Javascript with  jQuery or Frameworks such as  React.js, SQL and NoSQL database management.        
                         </p>
                     </div>
 
